@@ -1,18 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\CoreDemo\\",
+  "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\coredemo\\coredemo\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\views\\writer\\writerfooterpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\writer\\writerfooterpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\views\\shared\\writerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\writerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\views\\writer\\writernavbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\writer\\writernavbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\views\\writer\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\writer\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\wwwroot\\writer\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\wwwroot\\writer\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\views\\shared\\components\\bloglast3post\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\components\\bloglast3post\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\views\\shared\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\viewcomponents\\blog\\bloglast3post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\viewcomponents\\blog\\bloglast3post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\viewcomponents\\blog\\writerlastblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\viewcomponents\\blog\\writerlastblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12133E3D-8308-4747-881D-89A21283E97F}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\businesslayer\\concrete\\blogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12133E3D-8308-4747-881D-89A21283E97F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\blogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\coredemo\\coredemo\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\views\\writer\\writerprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\writer\\writerprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\views\\writer\\writermail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\writer\\writermail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\coredemo\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\coredemo\\coredemo\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E978EF8-DF48-418D-AA4D-AADC4C8FE724}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9214A04-BD3E-472C-8987-99147AAACF55}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.netcore project\\muratyucedagcoredemo\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9214A04-BD3E-472C-8987-99147AAACF55}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +78,218 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WriterLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Shared\\WriterLayout.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\WriterLayout.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Shared\\WriterLayout.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Shared\\WriterLayout.cshtml",
+              "ViewState": "AgIAAJcAAAAAAAAAAIAxwLgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T12:01:33.812Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WriterFooterPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Writer\\WriterFooterPartial.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Writer\\WriterFooterPartial.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Writer\\WriterFooterPartial.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Writer\\WriterFooterPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T13:27:58.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WriterController.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Controllers\\WriterController.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Controllers\\WriterController.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Controllers\\WriterController.cs",
+              "RelativeToolTip": "CoreDemo\\Controllers\\WriterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:00:20.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WriterNavbarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Writer\\WriterNavbarPartial.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Writer\\WriterNavbarPartial.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Writer\\WriterNavbarPartial.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Writer\\WriterNavbarPartial.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T13:16:22.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Writer\\Test.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Writer\\Test.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Writer\\Test.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Writer\\Test.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T13:19:39.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\wwwroot\\writer\\index.html",
+              "RelativeDocumentMoniker": "CoreDemo\\wwwroot\\writer\\index.html",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\wwwroot\\writer\\index.html",
+              "RelativeToolTip": "CoreDemo\\wwwroot\\writer\\index.html",
+              "ViewState": "AgIAADUCAAAAAAAAAAAAAEQCAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-03T12:13:33.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Shared\\Components\\BlogLast3Post\\Default.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\Components\\BlogLast3Post\\Default.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Shared\\Components\\BlogLast3Post\\Default.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Shared\\Components\\BlogLast3Post\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T11:06:50.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogLast3Post.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\ViewComponents\\Blog\\BlogLast3Post.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\ViewComponents\\Blog\\BlogLast3Post.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\ViewComponents\\Blog\\BlogLast3Post.cs",
+              "RelativeToolTip": "CoreDemo\\ViewComponents\\Blog\\BlogLast3Post.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:17:00.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Partial3.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Shared\\Partial3.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\Partial3.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Shared\\Partial3.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Shared\\Partial3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T10:09:33.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WriterLastBlog.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\ViewComponents\\Blog\\WriterLastBlog.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\ViewComponents\\Blog\\WriterLastBlog.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\ViewComponents\\Blog\\WriterLastBlog.cs",
+              "RelativeToolTip": "CoreDemo\\ViewComponents\\Blog\\WriterLastBlog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:16:41.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogManager.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\BusinessLayer\\Concrete\\BlogManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\BlogManager.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\BusinessLayer\\Concrete\\BlogManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\BlogManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwDUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:11:58.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "CoreDemo\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:06:38.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UserLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\CoreDemo\\CoreDemo\\Views\\Shared\\UserLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Shared\\UserLayout.cshtml",
               "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\UserLayout.cshtml",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\CoreDemo\\CoreDemo\\Views\\Shared\\UserLayout.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Shared\\UserLayout.cshtml",
               "RelativeToolTip": "CoreDemo\\Views\\Shared\\UserLayout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAFEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-02T16:22:50.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
+              "Title": "WriterProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Writer\\WriterProfile.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Writer\\WriterProfile.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Writer\\WriterProfile.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Writer\\WriterProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T08:19:25.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WriterMail.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Writer\\WriterMail.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Writer\\WriterMail.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Writer\\WriterMail.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Writer\\WriterMail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T08:20:47.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\CoreDemo\\CoreDemo\\Views\\Writer\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Writer\\Index.cshtml",
               "RelativeDocumentMoniker": "CoreDemo\\Views\\Writer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\CoreDemo\\CoreDemo\\Views\\Writer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\CoreDemo\\Views\\Writer\\Index.cshtml",
               "RelativeToolTip": "CoreDemo\\Views\\Writer\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -56,15 +298,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WriterController.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\CoreDemo\\CoreDemo\\Controllers\\WriterController.cs",
-              "RelativeDocumentMoniker": "CoreDemo\\Controllers\\WriterController.cs",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\CoreDemo\\CoreDemo\\Controllers\\WriterController.cs",
-              "RelativeToolTip": "CoreDemo\\Controllers\\WriterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\Asp.NetCore Project\\MuratYucedagCoreDemo\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T16:17:46.739Z",
+              "WhenOpened": "2025-02-03T07:38:43.539Z",
               "EditorCaption": ""
             }
           ]

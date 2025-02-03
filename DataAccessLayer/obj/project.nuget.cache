@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TRgnhHoQMcE=",
+  "dgSpecHash": "qbZcH06wwpw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdul\\OneDrive\\Masaüstü\\asp.net core project\\Murat Yücedağ\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\abdul\\OneDrive\\Masaüstü\\Asp.NetCore Project\\MuratYucedagCoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdul\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\abdul\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
